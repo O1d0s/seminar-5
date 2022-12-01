@@ -1,0 +1,15 @@
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\bin\Debug\net7.0\zadacha-34.exe
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\bin\Debug\net7.0\zadacha-34.deps.json
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\bin\Debug\net7.0\zadacha-34.runtimeconfig.json
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\bin\Debug\net7.0\zadacha-34.dll
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\bin\Debug\net7.0\zadacha-34.pdb
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.csproj.AssemblyReference.cache
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.AssemblyInfoInputs.cache
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.AssemblyInfo.cs
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.csproj.CoreCompileInputs.cache
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.dll
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\refint\zadacha-34.dll
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.pdb
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\zadacha-34.genruntimeconfig.cache
+C:\Users\ajdos\OneDrive\Documents\GeekBrains\C#\seminar\seminar-5\zadacha-34\obj\Debug\net7.0\ref\zadacha-34.dll
